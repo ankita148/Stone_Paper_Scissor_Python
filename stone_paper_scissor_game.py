@@ -2,7 +2,6 @@ import random
 # generating comp input
 
 randomNo = random.randint(1, 3)
-print(randomNo)
 if randomNo == 1:
     comp = 's'
 elif randomNo == 2 :
