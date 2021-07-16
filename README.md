@@ -5,4 +5,4 @@ In this game, there are 2 players :
   <li>User</li>
   
   </ul>
-Computer will randomly choose from stone, paper or scissor and then game starts.
+Computer will randomly choose from stone, paper and scissor and then game starts.
